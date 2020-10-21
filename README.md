@@ -1,4 +1,4 @@
-# Octoprint-TerminalMessaging
+# Octoprint Terminal Messaging
 
 Plugin that adds styling to the terminal tab that makes it easier to see where a message is from.
 
