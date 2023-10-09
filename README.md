@@ -49,7 +49,7 @@ Enjoy!
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/jeffeb3/OctoPrint-TerminalMessaging/archive/master.zip
+    https://github.com/chimcen/OctoPrint-TerminalMessaging/archive/master.zip
 
 ### Special Thanks
 
